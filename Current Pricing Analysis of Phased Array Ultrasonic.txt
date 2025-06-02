@@ -1,0 +1,82 @@
+Professional-Grade Phased Array Systems
+Eddyfi Technologies Mantis Series
+The Mantis 16:64PR platform dominates the mid-range market with two configurations:
+Base model (PAUT/UT/TOFD): $21,995 [1][2]
+Advanced model (PAUT/UT/TOFD/TFM): $29,995 [1][3]
+Key pricing factors:
+1.TFM capability adds $8,000 premium
+2.Multi-year service plans cost $10,365-$18,730 [1]
+3.Probe compatibility: Dual matrix probes (16x2 elements) cost $16,240-$16,750 [1]
+Technical specifications:
+16 pulsers/64 receivers
+PRF up to 20 kHz for high-speed inspections [3]
+IP65-rated ruggedized design [2]
+-----------------------------------------------------------------------------------------------------------------------
+Entry-Level and Refurbished Systems
+Olympus OmniScan MX2 32:128PR
+New systems: Discontinued, replaced by newer models
+Refurbished units: $5,800-$6,150 [4][5]
+Key features:
+o32 pulsers/128 receivers
+o10.4" touchscreen interface
+oMulti-group inspection capabilities
+Zetec TOPAZ32
+Current pricing: $4,750-$6,322 [6][7]
+Market position: Budget-friendly 32-channel system
+Notable features:
+o64-bit processing architecture
+oMagnesium alloy housing (6.3 kg)
+oUltraVision touch software suite
+---------------------------------------------------------------------------------------
+Phased Array Transducer Pricing
+Sensor Networks Offerings
+Configuration	Price Range	Key Specifications
+16-element linear array	$2,984.55 [8]	0.4mm pitch, 6.25mm elevation
+2x15/5x3 matrix array	$5,163.48 [9]	1.5MHz, dual matrix design
+7.5MHz low-profile array	$3,218.70 [8]	16 elements, 0.38" footprint
+
+Customization options:
+Cable lengths: 2.5m standard (8.2ft) [9][10]
+Connectors: ZPAC/IPEX/Phasor (+$150-$400)
+---------------------------------------------------------------------------------------
+Emerging Technology Premiums
+Total Focusing Method (TFM) Systems
+Eddyfi Mantis TFM64: 64-element live TFM adds 36% cost premium vs base model [1]
+Sonatest Veo3: $9,250 base price with real-time TFM/PAUT/TOFD [11][12]
+Performance metrics:
+o128GB SSD storage (Veo3)
+o10MB/s data transfer rates [11]
+---------------------------------------------------------------------------------
+Price Determinants in PAUT Market
+1.Channel architecture:
+o16:64 systems = $20k-$30k
+o32:128 systems = $30k-$45k [4][14]
+2.Software capabilities:
+oBasic PAUT packages: Included
+oAdvanced TFM/FMC: +$7k-$12k
+3.Environmental ratings:
+oIP65 certification adds 15-20% cost [2][3]
+---------------------------------------------------------------------
+Conclusion
+While the specific QD and ZH-series sensors remain unlisted, current PAUT pricing follows clear technological tiers. Buyers should consider:
+<$10k: Refurbished 32-channel systems (Zetec TOPAZ32)
+$20k-$30k: New 64-channel systems with TFM (Eddyfi Mantis)
+>30k: High-channel-count matrix array solutions
+
+
+Reference Links
+
+1.https://store.eddyfi.com/technologies/phased-array-tfm-and-conventional-ut/mantis.html     
+2.https://content.eddyfi.com/m/1d79c66f249d22d2/original/Mantis-Technical-Specification-Sheet.pdf   
+3.https://www.eddyfi.com/doc/LiteratureDownloadables/Mantis-specifications-sheet-02-01.pdf    
+4.https://www.globalfastertech.com/product/olympus-omniscan-mx2-32128-phased-array-flaw-detector/  
+5.https://www.superindotech.com/used-olympus-omniscan-mx2-pa-flaw-detector---sale  
+6.https://www.primeanalyzerstore.com/product/zetec-topaz32-phased-array-ut-flaw-detector/ 
+7.https://www.multiglobaldevice.com/product/zetec-topaz32-32-channel-phased-array-instrument/  
+8.https://irss.ca/product/sensor-networks-ultrasonic-phased-array-transducer/  
+9.https://www.splitter.com/products/sensor-networks-2x15-5x3-element-matrix-2d-phased-array-15mhz  
+10.https://www.splitter.com/products/sensor-networks-16-element-small-footprint-phased-array-75mhz 
+11.https://stratosprecision.com/products/Sonatest-Veo3-Phased-Array-Flaw-Detector.html  
+12.https://sonatest.com/application/files/7717/1292/2300/A027-PAUT-Butt-Weld-Inspection-Utilising-VEO3.pdf 
+13.https://beta3dscannersell.com/eddyfi 
+14.https://gp-technical.com/product/m2m-eddyfi-technologies-mantis-1664pr-phased-array-flaw-detector-with-tfm-64ch/ 
